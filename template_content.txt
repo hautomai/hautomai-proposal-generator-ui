@@ -1,0 +1,50 @@
+{{proposalTitle}}
+
+Prepared by {{consultantName}}  |  {{date}}
+Contact: {{consultantEmail}}
+
+---
+
+PROBLEM STATEMENT
+
+{{problemSection}}
+
+---
+
+PROPOSED SOLUTION
+
+{{solutionSection}}
+
+---
+
+SCOPE OF WORK
+
+{{scopeSection}}
+
+---
+
+TIMELINE
+
+{{timelineSection}}
+
+---
+
+YOUR INVESTMENT
+
+Price: {{price}}
+Deposit due at signing: {{depositAmount}}
+
+---
+
+TERMS AND CONDITIONS
+
+{{consultantName}} (WorkflowLoop) will build the system for {{companyName}}
+according to the description laid out in this proposal. Additional features
+beyond the listed requirements may affect the timeline and costs outlined above.
+
+By signing below, both parties indicate their acceptance of this proposal and
+constitute approval to begin work upon {{companyName}}'s payment of the deposit.
+
+{{consultantName}}
+WorkflowLoop
+{{consultantEmail}}

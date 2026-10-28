@@ -1,0 +1,9 @@
+{
+  "name": "proposal-generator-ui-tests",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js tests/*.test.mjs",
+    "test:python": "python3 tests/backend_response.test.py && python3 tests/publish.test.py",
+    "build:frontend": "python frontend/build.py"
+  }
+}
